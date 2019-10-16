@@ -119,7 +119,7 @@ app.layout = html.Div(children=[
         ], className='twelve columns'),
         
     html.Br(),
-    html.A('Code on Github', href='https://github.com/AlexBaker444/car_project'),
+    html.A('Code on Github', href='https://github.com/AlexanderBaker444/car_project'),
     
     ])
 ])
